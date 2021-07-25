@@ -1,0 +1,46 @@
+html {
+    background-color: seashell;
+}
+
+header {
+    background-color: mistyrose;
+}
+
+ul {
+    color: lightcoral;
+}
+
+h1 a {
+    color: hotpink;
+    font-family: "roboto", "sans serif";
+    text-decoration: none;
+    }
+
+li a {
+    color: hotpink;
+    font-size: 22px;
+    font-family: "roboto" "sans serif";
+    text-decoration: none;
+    }
+
+p {
+    color: hotpink;
+    font-size: 18px;
+    font-family: "roboto", "sans serif";
+}
+
+h2 {
+    color: hotpink;
+    font-size: 22px;
+    font-family: "roboto", "sans serif";
+}
+
+.bordesredondeados {
+    border-radius: 10%;
+}
+
+#irArriba {
+    font-family: "roboto", "sans serif";
+    text-decoration: none;
+    color: rgb(250, 12, 159);
+    }
